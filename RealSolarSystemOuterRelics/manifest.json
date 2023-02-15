@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "RealSolarSystemOuterRelics.dll",
+  "author": "GameWyrm",
+  "name": "Real Solar System - Outer Relics Support and Examples",
+  "uniqueName": "GameWyrm.RealSolarSystemOuterRelics",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.0",
+    "dependencies": [
+        "GameWyrm.OuterRelics",
+        "xen.RealSolarSystem"
+    ]
+}
