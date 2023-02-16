@@ -1,0 +1,29 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Perdition_Body",
+      "locationName": "Real Distant Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "North Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -33.0844421,
+            "y": -21.78572,
+            "z": -146.300583
+          },
+          "rotation": {
+            "x": 31.5231647,
+            "y": 100.076065,
+            "z": 261.546661
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

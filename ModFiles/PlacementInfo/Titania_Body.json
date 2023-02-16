@@ -1,0 +1,29 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Titania_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "North Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0282216072,
+            "y": 0.00856781,
+            "z": -45.00048
+          },
+          "rotation": {
+            "x": 70.67691,
+            "y": 95.0624847,
+            "z": 274.876556
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

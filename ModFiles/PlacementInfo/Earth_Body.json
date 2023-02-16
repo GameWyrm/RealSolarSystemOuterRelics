@@ -1,0 +1,446 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "North America",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Arizona",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 99.94384,
+            "y": 223.235977,
+            "z": -173.7077
+          },
+          "rotation": {
+            "x": 34.0667076,
+            "y": 189.796921,
+            "z": 25.265316
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Alaska",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 123.366493,
+            "y": 54.6388245,
+            "z": -264.953217
+          },
+          "rotation": {
+            "x": 69.3593,
+            "y": 96.93023,
+            "z": 303.4271
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Great Lakes",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -20.3999538,
+            "y": 204.37059,
+            "z": -214.729416
+          },
+          "rotation": {
+            "x": 323.111267,
+            "y": 51.75013,
+            "z": 328.3296
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Mobius Digital",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 120.5273,
+            "y": 210.02562,
+            "z": -167.967316
+          },
+          "rotation": {
+            "x": 22.77955,
+            "y": 204.055649,
+            "z": 37.3334541
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Mexico City",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 46.0510864,
+            "y": 276.935272,
+            "z": -107.766724
+          },
+          "rotation": {
+            "x": 21.1448746,
+            "y": 179.486938,
+            "z": 8.620732
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Hudson Bay",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -15.6447639,
+            "y": 143.47287,
+            "z": -255.218948
+          },
+          "rotation": {
+            "x": 300.6474,
+            "y": 26.3507862,
+            "z": 340.210815
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Greenland",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -70.79723,
+            "y": 64.76077,
+            "z": -287.848145
+          },
+          "rotation": {
+            "x": 42.8840446,
+            "y": 116.17041,
+            "z": 287.374573
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "South America",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Brazil",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -208.922089,
+            "y": 200.386841,
+            "z": 69.9456
+          },
+          "rotation": {
+            "x": 341.482056,
+            "y": 181.532516,
+            "z": 314.960815
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Chile",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -91.35103,
+            "y": 249.788239,
+            "z": 139.807388
+          },
+          "rotation": {
+            "x": 347.6154,
+            "y": 219.064651,
+            "z": 328.0391
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Africa",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Nile River",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -224.795868,
+            "y": -132.359726,
+            "z": -141.395523
+          },
+          "rotation": {
+            "x": 355.704376,
+            "y": 151.052765,
+            "z": 243.341278
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Lake Victoria",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -251.954163,
+            "y": -161.955261,
+            "z": 5.236145
+          },
+          "rotation": {
+            "x": 358.683868,
+            "y": 182.553757,
+            "z": 237.24823
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Madagascar",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -193.134125,
+            "y": -202.624527,
+            "z": 103.857513
+          },
+          "rotation": {
+            "x": 30.3548565,
+            "y": 177.538483,
+            "z": 219.154877
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Gulf of Guinea",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -287.8516,
+            "y": -33.5188446,
+            "z": 35.80507
+          },
+          "rotation": {
+            "x": 280.392365,
+            "y": 318.6271,
+            "z": 138.786972
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Europe",
+      "spawnPoints": [
+        {
+          "spawnPointName": "United Kingdom",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -177.910233,
+            "y": 4.39328,
+            "z": -237.590576
+          },
+          "rotation": {
+            "x": 349.545044,
+            "y": 127.200394,
+            "z": 270.764862
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Reykjavik",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -120.477554,
+            "y": 47.81035,
+            "z": -266.123535
+          },
+          "rotation": {
+            "x": 28.38427,
+            "y": 119.772194,
+            "z": 280.740479
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Sweden",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -139.299774,
+            "y": -44.2520142,
+            "z": -256.0262
+          },
+          "rotation": {
+            "x": 351.586853,
+            "y": 120.587456,
+            "z": 261.1608
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Portugal",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -228.659866,
+            "y": 32.4241943,
+            "z": -186.60878
+          },
+          "rotation": {
+            "x": 353.592743,
+            "y": 140.49263,
+            "z": 276.261
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Italy",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -216.2139,
+            "y": -63.4301147,
+            "z": -193.759964
+          },
+          "rotation": {
+            "x": 315.7788,
+            "y": 150.93924,
+            "z": 252.302368
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Asia",
+      "spawnPoints": [
+        {
+          "spawnPointName": "India",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -62.17171,
+            "y": -284.474518,
+            "z": -62.2790833
+          },
+          "rotation": {
+            "x": 349.6785,
+            "y": 173.584427,
+            "z": 193.3459
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Japan",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 182.666824,
+            "y": -155.507828,
+            "z": -172.5709
+          },
+          "rotation": {
+            "x": 4.449199,
+            "y": 225.345627,
+            "z": 121.797821
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Philippines",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 146.156677,
+            "y": -242.6851,
+            "z": -75.48245
+          },
+          "rotation": {
+            "x": 2.828389,
+            "y": 210.008911,
+            "z": 145.906815
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Australia",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Perth",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 108.98616,
+            "y": -225.945282,
+            "z": 153.582077
+          },
+          "rotation": {
+            "x": 36.96899,
+            "y": 186.208389,
+            "z": 161.823227
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Sydney",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 230.374786,
+            "y": -118.042725,
+            "z": 145.409241
+          },
+          "rotation": {
+            "x": 343.191376,
+            "y": 139.530823,
+            "z": 114.738953
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Tasmania",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 186.473724,
+            "y": -120.672958,
+            "z": 199.437866
+          },
+          "rotation": {
+            "x": 302.002533,
+            "y": 86.59064,
+            "z": 140.96492
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Antarctica",
+      "spawnPoints": [
+        {
+          "spawnPointName": "South Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.4841541,
+            "y": -0.299713135,
+            "z": 303.412354
+          },
+          "rotation": {
+            "x": 68.77814,
+            "y": 89.98779,
+            "z": 89.92392
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Joinville Island",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -73.53575,
+            "y": 109.354889,
+            "z": 261.9031
+          },
+          "rotation": {
+            "x": 21.84957,
+            "y": 264.128143,
+            "z": 293.894
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

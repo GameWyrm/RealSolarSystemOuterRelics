@@ -1,0 +1,44 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Mars_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Rover",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 147.85376,
+            "y": -30.5387135,
+            "z": 9.505394
+          },
+          "rotation": {
+            "x": 78.5711441,
+            "y": 292.10907,
+            "z": 205.226257
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "South Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -0.01763197,
+            "y": 0.00331115723,
+            "z": 153.599548
+          },
+          "rotation": {
+            "x": 280.5523,
+            "y": 273.2777,
+            "z": 266.771423
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

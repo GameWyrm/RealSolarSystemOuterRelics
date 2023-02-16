@@ -1,0 +1,29 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Pluto_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "North Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0165199954,
+            "y": -0.008575439,
+            "z": -65.02877
+          },
+          "rotation": {
+            "x": 356.038025,
+            "y": 90.8475647,
+            "z": 269.974823
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

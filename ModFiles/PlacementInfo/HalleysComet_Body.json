@@ -1,0 +1,29 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "HalleysComet_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Sunward Side",
+          "parent": "Sector/Icosphere",
+          "position": {
+            "x": 1.06137037,
+            "y": -3.6264,
+            "z": 47.8864136
+          },
+          "rotation": {
+            "x": 306.585052,
+            "y": 78.85759,
+            "z": 102.57299
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

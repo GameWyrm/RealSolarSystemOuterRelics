@@ -1,0 +1,44 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Venus_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Jammer",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -110.623146,
+            "y": -11.2610626,
+            "z": -218.3117
+          },
+          "rotation": {
+            "x": 65.30584,
+            "y": 301.6978,
+            "z": 95.48272
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "South Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 41.54003,
+            "y": -10.3164978,
+            "z": 248.78717
+          },
+          "rotation": {
+            "x": 321.058746,
+            "y": 281.8074,
+            "z": 266.7151
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

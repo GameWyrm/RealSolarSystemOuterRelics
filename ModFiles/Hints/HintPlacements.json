@@ -1,0 +1,330 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "BarnardsB_Body",
+      "locationName": "NormalHints",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0724419355,
+            "y": -0.07034302,
+            "z": 300.000122
+          },
+          "rotation": {
+            "x": 311.617126,
+            "y": 270.647156,
+            "z": 269.517578
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "ProximaB_Body",
+      "locationName": "ProximaB_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0115661621,
+            "y": -0.009384155,
+            "z": 150.735733
+          },
+          "rotation": {
+            "x": 321.151947,
+            "y": 88.656044,
+            "z": 90.8781738
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Earth_Body",
+      "locationName": "Earth_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -4.2951355,
+            "y": -47.300293,
+            "z": -289.3406
+          },
+          "rotation": {
+            "x": 279.8551,
+            "y": 191.8371,
+            "z": 169.158432
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "",
+          "parent": "Sector/TeaserSign/Sign",
+          "position": {
+            "x": -0.0005008316,
+            "y": 0.000397714379,
+            "z": 0.0174967553
+          },
+          "rotation": {
+            "x": 0.316130072,
+            "y": 89.47999,
+            "z": 90.58027
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Perdition_Body",
+      "locationName": "Perdition_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -49.266346,
+            "y": -1.34822083,
+            "z": 143.2767
+          },
+          "rotation": {
+            "x": 31.1608086,
+            "y": 68.8831,
+            "z": 89.2875443
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "TheMoon_Body",
+      "locationName": "TheMoon_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0200128555,
+            "y": -0.00254821777,
+            "z": 75.22922
+          },
+          "rotation": {
+            "x": 316.3734,
+            "y": 270.924652,
+            "z": 269.3659
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Venus_Body",
+      "locationName": "Venus_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -0.05968763,
+            "y": -0.0301971436,
+            "z": -253.521378
+          },
+          "rotation": {
+            "x": 76.05951,
+            "y": 268.108948,
+            "z": 88.15269
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Mercury_Body",
+      "locationName": "Mercury_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -0.0141794682,
+            "y": 0.0359725952,
+            "z": 101.14341
+          },
+          "rotation": {
+            "x": 42.3789673,
+            "y": 271.0094,
+            "z": 270.7577
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Mars_Body",
+      "locationName": "Mars_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -0.00706756,
+            "y": 0.002243042,
+            "z": -151.343658
+          },
+          "rotation": {
+            "x": 6.910096,
+            "y": 90.5737152,
+            "z": 270.0691
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Io_Body",
+      "locationName": "Io_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.001982503,
+            "y": -0.009017944,
+            "z": -75.00003
+          },
+          "rotation": {
+            "x": 358.6789,
+            "y": 268.9925,
+            "z": 90.1236038
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Titan_Body",
+      "locationName": "Titan_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.011293212,
+            "y": 0.0100021362,
+            "z": 102.313408
+          },
+          "rotation": {
+            "x": 76.36692,
+            "y": 86.71095,
+            "z": 86.78106
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Puck_Body",
+      "locationName": "Puck_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/Icosphere",
+          "position": {
+            "x": -0.201587141,
+            "y": 1.95833778,
+            "z": 20.3851089
+          },
+          "rotation": {
+            "x": 295.056244,
+            "y": 268.589844,
+            "z": 272.995239
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Triton_Body",
+      "locationName": "Triton_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.02448687,
+            "y": 0.0145645142,
+            "z": 64.99728
+          },
+          "rotation": {
+            "x": 64.56564,
+            "y": 274.1991,
+            "z": 273.777435
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Pluto_Body",
+      "locationName": "Pluto_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 18.50788,
+            "y": -20.7183914,
+            "z": 58.50926
+          },
+          "rotation": {
+            "x": 322.500427,
+            "y": 88.79473,
+            "z": 116.114067
+          },
+          "logic": []
+        }
+      ]
+    },
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "HalleysComet_Body",
+      "locationName": "HalleysComet_Body",
+      "spawnPoints": [
+        {
+          "spawnPointName": "",
+          "parent": "Sector/Icosphere",
+          "position": {
+            "x": -20.3264484,
+            "y": 3.607933,
+            "z": -53.18376
+          },
+          "rotation": {
+            "x": 74.82401,
+            "y": 135.987946,
+            "z": 295.160675
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

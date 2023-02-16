@@ -1,0 +1,59 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "TheMoon_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "Lunar Lander",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": -68.55351,
+            "y": -29.3677959,
+            "z": -8.350334
+          },
+          "rotation": {
+            "x": 18.1677189,
+            "y": 356.713165,
+            "z": 112.9492
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "North Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.473469973,
+            "y": -5.56893158,
+            "z": -74.95658
+          },
+          "rotation": {
+            "x": 281.616638,
+            "y": 237.28476,
+            "z": 122.548225
+          },
+          "logic": []
+        },
+        {
+          "spawnPointName": "Dark Side",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 73.24446,
+            "y": -16.3821468,
+            "z": 1.81120682
+          },
+          "rotation": {
+            "x": 9.107391,
+            "y": 358.532043,
+            "z": 257.471741
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

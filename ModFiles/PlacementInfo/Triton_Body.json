@@ -1,0 +1,29 @@
+{
+  "modName": "GameWyrm.RealSolarSystemOuterRelics",
+  "orVersion": "1.0.0",
+  "modVersion": "1.0.0",
+  "spawnLocations": [
+    {
+      "system": "xen.RealSolarSystem",
+      "body": "Triton_Body",
+      "locationName": "Real Planet",
+      "spawnPoints": [
+        {
+          "spawnPointName": "South Pole",
+          "parent": "Sector/CubeSphere",
+          "position": {
+            "x": 0.0210762024,
+            "y": 0.0532531738,
+            "z": 64.99989
+          },
+          "rotation": {
+            "x": 337.109039,
+            "y": 271.401978,
+            "z": 269.4401
+          },
+          "logic": []
+        }
+      ]
+    }
+  ]
+}

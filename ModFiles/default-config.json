@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "settings": {
+    "ClosePlanets": {
+      "title": "Close Planets",
+      "type": "toggle",
+      "value": true,
+      "tooltip": "Enables placements for all planets and possible moons in the Real Solar System around Sol."
+    },
+    "DistantPlanets": {
+      "title": "Distant Planets",
+      "type": "toggle",
+      "value": false,
+      "tooltip": "Enables placements for planets and moons around Alpha Centauri, Proxima Centauri, and Barnard's Star"
+    },
+    "Hints": {
+      "title": "Enable Hints",
+      "type": "toggle",
+      "value": true,
+      "tooltip": "Allows hints to spawn on Real Solar System planets and moons"
+    }
+  }
+}
